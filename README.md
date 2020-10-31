@@ -2,4 +2,4 @@
 
 This is a subproject of __[MCBE-Scott-CPU repo](https://github.com/YuandaLiu-Hashed/MCBE-Scott-CPU)__ to contain the __MC World File__.
 
-Details is in the superproject. 
+Details and instruction is in the superproject. 
