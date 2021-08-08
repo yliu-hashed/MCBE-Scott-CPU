@@ -2,7 +2,7 @@
 
 [__- NAVIGATIONS -__](/Documents/navigations.md)
 
-![Gibberish Compiler](/Documents/images/image_001.png)
+![Gibberish Compiler](/Documents/images/image_001.jpg)
 
 This compiler is made to compile basic programs for the Minecraft Computer. The binary used in this computer is **identical to the Scott CPU except the IO section**. I name the launguage used in this compiler **Gibberish** since it is a hybrid between Pseudo Code and actual Swift. But some concepts is entirely new. This document outlines the key features of this compiler and the Gibberish. 
 

@@ -2,6 +2,6 @@
 
 [__- NAVIGATIONS -__](/Documents/navigations.md)
 
-![flow chart](/Documents/images/image_007.png)
+![flow chart](/Documents/images/image_007.jpg)
 
 [__- NAVIGATIONS -__](/Documents/navigations.md)

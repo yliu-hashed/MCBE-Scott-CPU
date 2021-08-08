@@ -34,19 +34,19 @@ __All documentations' links on this project can be found in [- NAVIGATIONS -](/D
 
 This is a Minecraft adoptation of the famous Scott CPU in the book But how do it knows **_But How Do It Know? The Basic Principles of Computers for Everyone_**. 
 
-![Minecraft Computer](/Documents/images/image_002.png)
+![Minecraft Computer](/Documents/images/image_002.jpg)
 
 ```LEFT: IO Decoder | RIGHT: RAM | CENTER BLOCK: ALU | FAR BACK TOWER: Stack | MIDDLE: Instruction Decoder```
 
-![Minecraft Computer](/Documents/images/image_003.png)
+![Minecraft Computer](/Documents/images/image_003.jpg)
 
 ```FRONT LEFT: Stack | RIGHT BOTTOM: Multiplication Module | BACK LEFT: Instruction Decoder | CENTER BLOCK: ALU | RIGHT FRONT: IO Decoder```
 
-![Minecraft Computer](/Documents/images/image_004.png)
+![Minecraft Computer](/Documents/images/image_004.jpg)
 
 ```FAR BACK: RAM | LEFT: Stack | RIGHT: ALU | MIDDLE: Instruction Decoders```
 
-![Minecraft Computer](/Documents/images/image_005.png)
+![Minecraft Computer](/Documents/images/image_005.jpg)
 
 ```RIGHT HALF: RAM Editor | LEFT: Steper Control```
 
@@ -63,7 +63,7 @@ Note: only the files of the Minecraft World exsists in this repo. The gobberish 
 
 This compiler is made to compile basic programs for the Minecraft Computer. 
 
-![Example Image of a Multiplication Code](/Documents/images/image_001.png)
+![Example Image of a Multiplication Code](/Documents/images/image_001.jpg)
 
 This program made by using [Processing](https://processing.org) which is a program made for learning Java (highly reconmemded if you want to start coding). 
 This app can be a effective application to learn basic processing using my custom programming launguage I made called __Gibberish__. 
