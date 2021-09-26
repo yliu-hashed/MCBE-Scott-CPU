@@ -1,10 +1,7 @@
 # MCBE-Scott-CPU
-Compiler: 
-[![Github release](https://img.shields.io/github/downloads/YuandaLiu-Hashed/Gibberish-Compiler/total.svg)](https://github.com/YuandaLiu-Hashed/MCBE-Scott-CPU/releases)
-![Github release](https://img.shields.io/github/repo-size/YuandaLiu-Hashed/Gibberish-Compiler.svg?color=blue)
-World: 
-[![Github release](https://img.shields.io/github/downloads/YuandaLiu-Hashed/MCBE-Scott-CPU/total.svg)](https://github.com/YuandaLiu-Hashed/MCBE-Scott-CPU-World/releases)
-![Github release](https://img.shields.io/github/repo-size/YuandaLiu-Hashed/MCBE-Scott-CPU.svg?color=blue)
+[![Minecraft Bedrock Edition](https://img.shields.io/badge/Minecraft-Bedrock%20Edition-brightgreen?style=for-the-badge)](https://www.minecraft.net/)
+[![Github release](https://img.shields.io/github/downloads/YuandaLiu-Hashed/MCBE-Scott-CPU/total.svg?style=for-the-badge)](https://github.com/YuandaLiu-Hashed/MCBE-Scott-CPU-World/releases)
+![Github release](https://img.shields.io/github/repo-size/YuandaLiu-Hashed/MCBE-Scott-CPU.svg?color=blue&style=for-the-badge)
 
 [__- NAVIGATIONS -__](/Documents/navigations.md)
 
